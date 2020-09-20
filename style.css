@@ -4,11 +4,19 @@ header>nav {
     height: 100px;
 }
 
+li.nav-item>a {
+    text-decoration: none;
+}
+
+li.nav-item>a:hover {
+    color: #00ff0e;
+}
+
 #content {
     float: right;
 }
 
-.nav-item {
+li.nav-item {
     float: right;
     margin-right: 10px;
     list-style: none;
