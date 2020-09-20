@@ -1,0 +1,20 @@
+header>nav {
+    background-color: #0f0f0f0f;
+    padding: 10px;
+    height: 100px;
+}
+
+#content {
+    float: right;
+}
+
+.nav-item {
+    float: right;
+    margin-right: 10px;
+    list-style: none;
+}
+
+footer {
+    background-color: #f0d0c0;
+    text-align: center;
+}
