@@ -1,0 +1,4 @@
+Website yang akan dibuat merupakan website personal website yang menceritakan front end development menggunakan bahasa
+HTML, JavaScript, dan CSS. Konten yang ada disini berisi beberapa fungsi yang dapat dimanfaatkan, seperti fungsi
+scientific calculator. Beberapa fungsi diantara nya adalah halaman ini secara mentah dapat digunakan sebagai kalkulator,
+peta GPS, dan beberapa fungsi lainnya
