@@ -1,16 +1,32 @@
 header>nav {
     background-color: lightgreen;
+    height: 120px;
     padding: 10px;
-    border-radius: 50px 0px 50px 0px;
+    border-radius: 50px 0px 0px 0px;
+}
+
+header>nav>h1 {
+    color: #090909;
+    font-style: italic;
+}
+
+img {
+    display: inline;
+    float: left;
 }
 
 li.nav-item>a {
     display: inline-block;
+    background-color: #8c8;
+    border-radius: 10px 0px 10px 0px;
+    padding: 10px;
+    color: #111;
     text-decoration: none;
 }
 
 li.nav-item>a:hover {
     color: #00ff0e;
+    background-color: #191;
 }
 
 main {
@@ -19,12 +35,12 @@ main {
 }
 
 #content {
-    border-radius: 15px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
     background-color: #cbcdd1;
 }
 
 aside {
-    border-radius: 0px 15px 0px 0px;
     font-style: italic;
     background-color: lightgray;
 }
